@@ -10,6 +10,7 @@
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2CA5E0?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/nazar-lyubchynskyi-37a89026b/) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VBShadow) 
+[![portfolio](https://img.shields.io/badge/Portfolio-2CA5E0?style=for-the-badge&logoColor=white)](https://www.weblancer.net/users/Lyubch/#portfolio) 
 
 # 💻 Tech Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
